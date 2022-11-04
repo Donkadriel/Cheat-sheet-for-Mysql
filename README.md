@@ -15,6 +15,10 @@ create table table1(id int, reg no. varchar(100), name varchar(200), age varchar
 ## Showing the field names
 
 ```sql
+describe name_of_table;
+```
+##example
+```sql
 describe table1;
 ```
 
