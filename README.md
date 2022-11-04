@@ -9,7 +9,7 @@ create table name_of_table(field_name1, field_name2, etc);
 ```
 ##example
 ```sql
-create table table1(id int primary key, reg no. varchar(100), name varchar(200), age varchar(250), sex varchar(100), level varchar(100));
+create table table1(id int, reg no. varchar(100), name varchar(200), age varchar(250), sex varchar(100), level varchar(100),primary key(id));
 ```
 
 ## Showing the field names
