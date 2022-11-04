@@ -5,7 +5,7 @@ Cheat Sheet for Mysql
 ## Creating a table
 
 ```bash
-create table(field_name1, field_name2, etc);
+create table name_of_table(field_name1, field_name2, etc);
 ```
 ##example
 ```sql
