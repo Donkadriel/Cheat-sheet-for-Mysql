@@ -1,5 +1,7 @@
 # Cheat-sheet-for-Mysql
 
+# Cyberbill1 edited it please accept the pull request
+
 Cheat Sheet for Mysql
 
 ## Creating a table
